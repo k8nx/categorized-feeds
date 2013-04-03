@@ -1,0 +1,22 @@
+{
+  "language": "en"
+  , "items": [
+    {"title": "Twitter", "url": "http://engineering.twitter.com/feeds/posts/default"}
+    , {"title": "DropBox", "url": "https://tech.dropbox.com/feed/"}
+    , {"title": "Tumblr", "url": "http://engineering.tumblr.com/rss"}
+    , {"title": "Evernote", "url": "http://blog.evernote.com/tech/feed/"}
+    , {"title": "Slideshare", "url": "http://feeds.feedburner.com/SlideShareEngineering"}
+    , {"title": "Netflix", "url": "http://techblog.netflix.com/feeds/posts/default?alt=rss"}
+    , {"title": "SoundCloud", "url": "https://backstage.soundcloud.com/?feed=rss2"}
+    , {"title": "LinkedIn", "url": "http://engineering.linkedin.com/taxonomy/term/1/feed"}
+    , {"title": "Zinga", "url": "http://code.zynga.com/code.zynga.com/feed/"}
+    , {"title": "GitHub", "url": "https://github.com/blog.atom"}
+    , {"title": "Bitly", "url": "http://blog.bitly.com/rss"}
+    , {"title": "Instagram", "url": "http://instagram-engineering.tumblr.com/rss"}
+    , {"title": "Pinterest", "url": "http://engineering.pinterest.com/rss"}
+    , {"title": "FourSquare", "url": "http://engineering.foursquare.com/feed/"}
+    , {"title": "Yelp", "url": "http://engineeringblog.yelp.com/rss.xml"}
+    , {"title": "Yammer", "url": "http://eng.yammer.com/feed/"}
+    , {"title": "Treasure Data", "url": "http://blog.treasure-data.com/rss"}
+  ]
+}

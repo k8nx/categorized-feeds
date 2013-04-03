@@ -1,0 +1,8 @@
+{
+  "language": "ko"
+  , "items": [
+    {"title": "Spoqa", "url": "http://spoqa.github.com/atom.xml"}
+    , {"title": "Quicket", "url": "http://quicket-engineering.tumblr.com/rss"}
+    , {"title": "Styleshare", "url": "http://engineering.stylesha.re/rss"}
+  ]
+}
