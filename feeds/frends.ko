@@ -1,0 +1,12 @@
+{
+  "language": "ko"
+  , "items": [
+      {"title": "Dani's notes", "url": "http://blog.geekple.com/feed/"},
+      {"title": "Outsider's Dev Story", "url": "http://blog.outsider.ne.kr/rss"},
+      {"title": "커피와 흐린여름날", "url": "http://zziuni.pe.kr/rss"},
+      {"title": "Daily Upgrade", "url": "http://dailyupgrade.me/rss"},
+      {"title": "kyungw00k", "url": "http://kyungw00k.wordpress.com/feed/"},
+      {"title": "kyungw00k@github", "url": "http://kyungw00k.github.com/atom.xml"},
+      {"title": "NodeQA", "url": "http://feeds.feedburner.com/nodeqa"}
+  ]
+}
